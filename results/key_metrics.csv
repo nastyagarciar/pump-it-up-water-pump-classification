@@ -1,0 +1,6 @@
+metric,value
+CatBoost validation accuracy,0.8106902357
+CatBoost 3-fold CV mean accuracy,0.80421
+CatBoost 3-fold CV standard deviation,0.0017
+Best public competition score,0.8207
+Final documented submission score,0.8183

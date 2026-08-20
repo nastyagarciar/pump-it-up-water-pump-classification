@@ -1,0 +1,4 @@
+model,validation_accuracy
+CatBoost,0.8106902357
+Random Forest,0.7586700337
+HistGradientBoosting,0.738721
