@@ -1,0 +1,21 @@
+# Competition data
+data/*.csv
+
+# Predictions / submissions
+submission*.csv
+*submission*.csv
+
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments / IDE
+.env
+.venv/
+venv/
+.vscode/
+.idea/
